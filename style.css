@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: hsl(47, 88%, 63%);
+}
+.container{
+width: 1000px;
+    height: 600px;
+    background-color:hsl(0, 0%, 100%);
+    border-radius:9px; 
+    padding:20px;
+}
+
+.container button{
+background-color:hsl(47, 88%, 63%);
+padding: 15px;
+border: none;
+border-radius: 10px;
+color: hsl(0, 0%, 7%);
+} 
+.container img{
+margin-right: 20%;
+}
